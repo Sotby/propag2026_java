@@ -1,3 +1,4 @@
+package revisao;
 import java.util.Scanner;
 public class leituras {
     public static Scanner scan = new Scanner(System.in);
